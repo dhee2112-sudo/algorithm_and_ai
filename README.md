@@ -1,8 +1,5 @@
-# AI Assignment 2  
-Course: Artificial Intelligence  
- Contents of This Repository
-
-This assignment includes implementations of fundamental AI concepts:
+Artificial Intelligence  
+ Contents of This Repository includes implementations of fundamental AI concepts:
 
 ️⃣ BFS and DFS
 - Implementation of Breadth First Search
